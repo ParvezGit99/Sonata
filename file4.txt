@@ -1,2 +1,3 @@
 This is file number 4
 New line is added to file4
+Modifications are being made in master branch
